@@ -22,7 +22,7 @@ Feel free to browse my repositories where I share code related to my cloud admin
 
 - **Cloud Platforms**:
   - Azure
-  - AWS (Optional, if you have experience)
+  - AWS
 - **Infrastructure as Code (IaC)**:
   - Terraform
   - ARM Templates
